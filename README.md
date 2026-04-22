@@ -1,4 +1,4 @@
-# Liam-Sandino-Portfolio
+# Liam-Sandino
 
 ### About Me
 Hello! I am an experienced Mail Clerk and organizational professional with over 5 years of proven expertise in customer service and organization. 
