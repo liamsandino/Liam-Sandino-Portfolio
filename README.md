@@ -7,13 +7,13 @@ Hello! I am an experienced Mail Clerk and organizational professional with over 
 You can find me on LinkedIn, Instagram, or Handshake.
 
 ### Education
-**BSc in [Your Major]**  
+**BA in Psychology**  
 Loyola University Maryland
 
 ### Projects
 
-#### Project 1 Title
-- ![Image](link-to-image)
+#### Project 1: Exponent Calculator
+- ![Image](<img width="621" height="378" alt="Screenshot 2026-04-22 at 6 42 22 AM" src="https://github.com/user-attachments/assets/c50da6b5-c524-4f0f-856c-c48332255305" />)
 - [Read the Report](link-to-report)
 
 ***
