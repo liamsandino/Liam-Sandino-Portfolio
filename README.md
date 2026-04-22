@@ -13,7 +13,7 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1: Exponent Calculator
-- ![Image](<img width="621" height="378" alt="Screenshot 2026-04-22 at 6 42 22 AM" src="https://github.com/user-attachments/assets/c50da6b5-c524-4f0f-856c-c48332255305" />)
+- ![Image](![Screenshot 2026-04-22 at 6.41.52 AM.png](images/Screenshot%202026-04-22%20at%206.41.52%E2%80%AFAM.png))
 - [Read the Report](link-to-report)
 
 ***
