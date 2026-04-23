@@ -13,8 +13,8 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1: Exponent Calculator
-- ![Image](![Screenshot 2026-04-22 at 6.41.52 AM.png](images/Screenshot%202026-04-22%20at%206.41.52%E2%80%AFAM.png))
-- [Read the Report](link-to-report)
+- ![Image]*(![Screenshot 2026-04-22 at 6.41.52 AM.png](images/Screenshot%202026-04-22%20at%206.41.52%E2%80%AFAM.png))
+- I created a simple calculator in Python to determine the use of exponents, using GitHub and PyCharm to navigate the project. Although the task was straightforward, it required problem-solving and learning basic concepts that were new to me. Through this experience, I gained familiarity with PyCharm, contributing to projects, and foundational Python skills that helped me later on.
 
 ***
 #### Project 2 Title
