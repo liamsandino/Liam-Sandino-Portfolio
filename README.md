@@ -14,14 +14,15 @@ Loyola University Maryland
 
 #### Project 1: Exponent Calculator
 - ![Screenshot 2026-04-22 at 6.41.52 AM.png](images/Screenshot%202026-04-22%20at%206.41.52%E2%80%AFAM.png))
-- I created a simple calculator in Python to determine the use of exponents, using GitHub and PyCharm to navigate the project. Although the task was straightforward, it required problem-solving and learning basic concepts that were new to me. Through this experience, I gained familiarity with PyCharm, contributing to projects, and foundational Python skills that helped me later on.
-
+I created a simple calculator in Python to determine the use of exponents, using GitHub and PyCharm to navigate the project. Although the task was straightforward, it required problem-solving and learning basic concepts that were new to me. Through this experience, I gained familiarity with PyCharm, contributing to projects, and foundational Python skills that helped me later on.
+https://github.com/LoyolaUnivMD/sp26-cs105-python-week-1-liamsandino/blob/main/CS%20105%20Python%20Week%201%2C%20PART%20TWO.py
 ***
-#### Project 2 Title
+#### Project 2: Student Info Card
 - ![img.png](images/img.png)
-- Write-up here
-
+I created a form that a student would fill out in order to create their own student info card. By using things like inputs, I improved my knowledge of python and computers in general. I was having a hard time at first, but after developing the skills needed to complete the assignment, I feel better about my learning skills and overall versatility. A simple project, yes, but it marked a special landmark for me in my usage of computers. 
+https://github.com/LoyolaUnivMD/sp26-cs105-python-week-1-liamsandino/blob/main/CS%20105%20Python%20Week%201%2C%20PART%20ONE.py
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Project 3: Personality Test
+- ![Screenshot 2026-04-22 at 11.10.56 PM.png](images/Screenshot%202026-04-22%20at%2011.10.56%E2%80%AFPM.png)
+I created a personality test simulator, in which the user is meant to find out which villain they'd be after taking a multiple choice test. I also used GitHub and PyCharm for this, and this proved to be the most challenging project we did (at least in my opinion). This assignment helped me develop essential skills in python, and it makes me more confident to use it in the future. 
+https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-liamsandino/blob/main/PersonalityTest.py
